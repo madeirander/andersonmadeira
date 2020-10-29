@@ -1,10 +1,12 @@
 ### Hello there 👋 Welcome! 😄
 
-- 🔭 I’m currently working on [Instituto Atlântico](http://atlantico.com.br/)
-- 🤩 I love web development in general
+- 👨‍💻 I'm a web dev with some mobile expertise with more than 7+ years of exp
+- 💼 I’m currently building awesome ✨ web solutions for [Instituto Atlântico](http://atlantico.com.br/)
+- 🤩 I love web development in general, web scraping, cinema and my family
+- 📲 I'm a mobile dev enthusiast playing around with `React Native`
 - 🤔 I’m looking to collaborate on open source projects or crazy ideas
 - 💬 Ask me anything [here](https://github.com/andersonmadeira/andersonmadeira/issues)
-- ⚡ Fun fact: I hate semicolons in (Type|Java)Script, I find them to be useless as an extra char to type
+- ⚡ Fun fact: I hate semicolons in (Type|Java)Script, I find them to be useless as an extra char to type 🙄
 
 #### Techs 
 
