@@ -25,3 +25,9 @@
 #### Reach out
 
 [![Linkedin](https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/andersonmadeiracs/)
+
+### That's it!
+
+Ok, now that we've been properly introduced... 🥁
+
+... feel free to check any of my public repos down here 👇🏽
