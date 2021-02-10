@@ -53,6 +53,14 @@
   <img alt="Shell Script" src="https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white"/>
 </p>
 
+## My stats
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=andersonmadeira&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andersonmadeira&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+> _**Please Note that**_ *these languages above are not the only ones I work with, these are just the most used languages for my public repositories you'll find here on GitHub* ;)
+
 ## Reach out
 
 [![Linkedin](https://img.shields.io/badge/linked-in-369?style=flat-square&logo=linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/andersonmadeiracs/)
