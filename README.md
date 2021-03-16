@@ -1,7 +1,7 @@
 # Hello there 👋 Welcome! 😄
 
 - 👨‍💻 I'm a web dev with some mobile expertise with more than 7+ years of exp
-- 💼 I’m currently a tech lead ✨ at [Smart Research](http://www.smartmresearch.com/)
+- 💼 I’m currently a tech lead at [Smart Research](http://www.smartmresearch.com/)
 - 🤩 I love web development in general, web scraping, cinema and my family
 - 📲 I'm a mobile dev enthusiast playing around with `React Native`
 - 🤔 I’m looking to collaborate on open source projects or crazy ideas
