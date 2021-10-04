@@ -1,7 +1,7 @@
 # Hello there 👋 Welcome! 😄
 
 - 👨‍💻 I'm a web dev with some mobile expertise with more than 7+ years of exp
-- 💼 I’m currently a tech lead at [Smart Research](http://www.smartmresearch.com/)
+- 💼 Helping [Ecoation](https://www.ecoation.com/) on their mission to help growers put good food on our tables.
 - 🤩 I love web development in general, web scraping, cinema and my family
 - 📲 I have good expertise with mobile development using: ionic, react-native, android (java and kotlin)
 - 🤔 I’m looking to collaborate on open source projects or crazy ideas
