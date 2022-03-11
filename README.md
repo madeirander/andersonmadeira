@@ -1,12 +1,13 @@
 # Hello there 👋 Welcome! 😄
 
-- 👨‍💻 I'm a web dev with some mobile expertise with more than 7+ years of exp
+- 👨‍💻 I'm a software engineer with more than 8 years of exp
 - 💼 Helping [Ecoation](https://www.ecoation.com/) on their mission to help growers put good food on our tables.
-- 🤩 I love web development in general, web scraping, cinema and my family
-- 📲 I have good expertise with mobile development using: ionic, react-native, android (java and kotlin)
+- 🤩 I love software development in general, web scraping, cinema and my family
+- 📲 I have a strong preference for mobile and frontend development.
+- 💻 I have a special interest and preference for serverless architectures when going backend.
 - 🤔 I’m looking to collaborate on open source projects or crazy ideas
 - 💬 Ask me anything [here](https://github.com/andersonmadeira/andersonmadeira/issues)
-- ⚡ Fun fact: I hate semicolons 🙄
+- ⚡ Fun fact: I hate semicolons.
 
 ## Techs 
 
