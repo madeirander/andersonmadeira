@@ -1,6 +1,6 @@
-# Hello there 👋 Welcome! 😄
+# Hello there 👋 
 
-- 👨‍💻 I'm a software engineer with more than 8 years of exp
+- 👨‍💻 I'm a software engineer with more than 8 years of XP
 - 💼 Helping [Ecoation](https://www.ecoation.com/) on their mission to help growers put good food on our tables.
 - 🤩 I love software development in general, technology, anime, cinema and my family
 - 🤔 I’m looking to collaborate on open source projects or crazy ideas
